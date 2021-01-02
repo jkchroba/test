@@ -1,6 +1,464 @@
 {
-  "info" : {
-    "author" : "xcode",
-    "version" : 1
-  }
+  "events" : [ null, {
+    "adress" : "Bürgerhaus, Kirchstraße 7, Korbach",
+    "date" : "27/01/2021",
+    "infoText" : "Anlässlich des nationalen Gedenktages an die Opfer des Nationalsozialismis stellt die Stadt Korbach zusemmen mit dem Lions-Club und der Alten-Landesschule die \"Gedenkportal-App\" vor.",
+    "seconds" : 1611745200,
+    "time" : "12:00 Uhr",
+    "titel" : "App-Vorstellungen",
+    "type" : "Gedenkveranstaltung"
+  } ],
+  "news" : [ {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 12. März 2020",
+    "titel" : "Menschenrecht im Fokus",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_03_12_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 07. März 2020",
+    "titel" : "Jüdische Geschichte aufarbeiten",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_03_07_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 06. März 2020",
+    "titel" : "\"Hass durch Toleranz ersetzen\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_03_06_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 04. Februar 2020",
+    "titel" : "Ermordeten die Menschenwürde wiedergeben",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_02_04_WLZ.jpg"
+  }, {
+    "subtitel" : "Eder-Diemel-Tipp, 01. Februar 2020",
+    "titel" : "Opfern einen Namen geben",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_02_01_EDT.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2020",
+    "titel" : "\"Erinnern ist notwendig\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_01_28_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2020",
+    "titel" : "Thema: Gefangene im Lager Breitenau",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_01_28_WLZ2.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 08. Januar 2020",
+    "titel" : "NS-Opfer: Jeder Name zählt",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_01_08_WLZ1.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 08. Januar 2020",
+    "titel" : "Zeichen setzen für die Opfer",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_01_08_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 31. Dezember 2019",
+    "titel" : "Neue Erkentnisse zum \"Sühnemord\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2019_12_31_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 18. September 2019",
+    "titel" : "Wahre Zahlen noch nicht bekannt",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2019_09_18_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 16. September 2019",
+    "titel" : "Aus der Perspektive des Opfers",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2019_09_16_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 13. September 2019",
+    "titel" : "Lebensborn: Betroffener erzählt",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2019_09_13_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 07. September 2019",
+    "titel" : "Facetten des Rassismus",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2019_09_07_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 15. Dezember 2018",
+    "titel" : "Anerkannte Historikerin",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_12_15_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 20. November 2018",
+    "titel" : "Gelebter Geschichtsunterricht",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_11_20_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 10. November 2018",
+    "titel" : "\"Klingende Warnung vor Gefahr\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_11_10_WLZ.jpgg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 02. November 2018",
+    "titel" : "Öffentliche Gedenkfeier zur Progromnacht",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_11_02_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 29. Oktober 2018",
+    "titel" : "Das dunkelste Kapitel",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_10_29_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 25. August 2018",
+    "titel" : "Fluchtursachen auf der Spur",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_08_25_WLZ.jpg"
+  }, {
+    "subtitel" : "Frankfurter Rundschau, 02. Juli 2018",
+    "titel" : "Wie die APO-Aufregung NS-Taten überlagerte",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_07_02_FrankfRu.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 24. April 2018",
+    "titel" : "Geschichte wachhalten",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_04_24_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 17. April 2018",
+    "titel" : "Schicksale aus Breitenau",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_04_17_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 14. April 2018",
+    "titel" : "Familiengeschichten als Roman",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2018_04_15_WLZ.jpg"
+  }, {
+    "subtitel" : "Frankenberger Allgemeine (HNA), 24. Februar 2018",
+    "titel" : "Politische Gegner verhaftet",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2018_02_24_HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 30. Januar 2018",
+    "titel" : "Gedenken an die Opfer des Nationalsozialismus",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2018_01_30_1_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 30. Januar 2018",
+    "titel" : "Schüler erinnern an die Vervolgung",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2018_01_30_3_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 30. Januar 2018",
+    "titel" : "Schreiben zum Überleben",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2018_01_30_2_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 09. Januar 2018",
+    "titel" : "Schicksale dokomentiert",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2018_01_09_WLZ2.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 21. Dezember 2017",
+    "titel" : "Alltag der Menschen im Fokus",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_12_21_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 19. Dezember 2017",
+    "titel" : "Gedenken an sechs junge Polen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_12_19_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 10. November 2017",
+    "titel" : "Ausgrenzung und brutale Gewalt",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_11_10_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 08. November 2017",
+    "titel" : "Gestorben in Theresienstadt",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_11_08_WLZ.JPG"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Oktober 2017",
+    "titel" : "Schicksale hinter Mauern",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_10_28_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 27. Oktober 2017",
+    "titel" : "Einsatz gegen Vergessen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_10_27_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 18. Juli 2017",
+    "titel" : "Spurensuche in der Heimat der Vorfahren",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_07_18_WLZ1.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 18. Juli 2017",
+    "titel" : "Bewegene Geschichten der Familie Weitzenkorn",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_07_18_WLZ2.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 30. Mai 2017",
+    "titel" : "Heimat der Vorfahren besucht",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_05_30_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 23. Mai 2017",
+    "titel" : "Hunderten das Leben gerettet",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_05_23_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 18. April 2017",
+    "titel" : "An willkürliche Gewalt erinnern",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_04_18_WLZ.jpg"
+  }, {
+    "subtitel" : "Frankenberger Allgemeine (HNA), 31. Januar 2017",
+    "titel" : "Opfer aus dem Oberen Edertal",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_31_HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 31. Januar 2017",
+    "titel" : "Briefe aus der Gefängniszelle",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_31_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 30. Januar 2017",
+    "titel" : "Erinnern an das Schicksal der Juden",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_30_WLZ_02.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 30. Januar 2017",
+    "titel" : "Rückenwind für Verein \"Rückblende\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_30_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2017",
+    "titel" : "\"Verantwortung zeigen\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_28_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 27. Januar 2017",
+    "titel" : "Ein Stadtrundgang der anderen Art",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_27_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 27. Januar 2017",
+    "titel" : "Geächtet, gejagt, ermordet",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_27_WLZ_02.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 26. Januar 2017",
+    "titel" : "\"Bin zu brechen, aber nicht zu biegen\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_26_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 17. Januar 2017",
+    "titel" : "Steine ins Rollen gebracht",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2017_01_17_WLZ_02.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 30. November 2016",
+    "titel" : "Lebengeschichten erzählt",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_11_30_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 11. November 2016",
+    "titel" : "Auf den Spuren der Gewalt",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_11_11_WLZ.jpg"
+  }, {
+    "subtitel" : "Eder-Diemel-Tipp, 05. November 2016",
+    "titel" : "Stadtführung \"Progromnachtin Korbach 1938\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_11_02_EDT.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 03. November 2016",
+    "titel" : "Rundgang durch die Geschichte",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_11_03_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 12. Juli 2016",
+    "titel" : "\"Wissen Sie, ich bin Optimistin\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_07_12WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 09. Juli 2016",
+    "titel" : "Wahre Geschichten statt Zahlen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_07_09WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 25. Juni 2016",
+    "titel" : "Geschichten aus dem Schulalltag",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_06_25WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 03. Juni 2016",
+    "titel" : "Tochter einer mutigen Frau",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_06_03_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 12. Mai 2016",
+    "titel" : "Hohe Berge aus Menschenasche",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_05_12_WLZ_02.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 12. Mai 2016",
+    "titel" : "Lebendige Erinnerungen an Opfer",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_05_12_WLZ.jpg"
+  }, {
+    "subtitel" : "Eder-Diemel Tipp, 30. April 2016",
+    "titel" : "Lesung \"Wir haben das KZ überlebt\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_04_30EDT.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2016",
+    "titel" : "Gedenklen an NS Opfer",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_01_28_WLZ_02.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2016",
+    "titel" : "\"Erinnerung erzeugt Empathie\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_01_28_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 27. Januar 2016",
+    "titel" : "\"Erfasst, verfolgt und vernichtet\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_01_27_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 27. Januar 2016",
+    "titel" : "Korbacher Opfer der NS-Eutanasie",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_01_27WLZ(2).jpg"
+  }, {
+    "subtitel" : "Frankenberger Allgemeine (HNA), 27. Januar 2016",
+    "titel" : "Todesurteil \"lebensunwert\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2016_01_27HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 11. November 2015",
+    "titel" : "Schauplätze des Terrors",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_11_11_WLZ.jpg"
+  }, {
+    "subtitel" : "Eder-Diemel Tipp, 07. November 2015",
+    "titel" : "Die Ereignisse in einem neuen Licht",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_11_07EDT.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 03. November 2015",
+    "titel" : "Stadtführung \"Progromnachtin Korbach 1938\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_11_03WLZ.jpg"
+  }, {
+    "subtitel" : "Frankenberger Allgemeine (HNA), 06. Oktober 2015",
+    "titel" : "Treu in \"eiserner Zeit\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_10_06_HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 25. September 2015",
+    "titel" : "Geschichte hinter den Gräbern",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_09_25_WLZ.jpg"
+  }, {
+    "subtitel" : "Frankenberger Allgemeine (HNA), 19. September 2015",
+    "titel" : "Sie saßen in allen Fraktionen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_09_19_HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 12. September 2015",
+    "titel" : "90-Jährige zieht Gymnasiasten in Bann",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_09_12_WLZ.jpg"
+  }, {
+    "subtitel" : "Korbacher Bote , 01. August 2015",
+    "titel" : "Korbacher Gedenkportal für Opfer des Nationalsozialismus",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_08_01_KB.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 17. Juli 2015",
+    "titel" : "Spurensuche : Korbach im \"Dritten Reich\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_07_17_WLZ.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 30. Mai 2015",
+    "titel" : "Nazis haben Angst vor ihr",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_05_30_HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 26. Februar 2015",
+    "titel" : "\"Sprache kann verletzen\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_02_26_WLZ.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 04. Februar 2015",
+    "titel" : "Nicht nur für junge Leute",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_02_04_HNA.jpg"
+  }, {
+    "subtitel" : "Frankenberger Allgemeine (HNA), 03. Februar 2015",
+    "titel" : "Vereint gegen Vergessen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_02_03_HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 03. Februar 2015",
+    "titel" : "\"Mensch, Du hast Recht(e)!\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_02_03_WLZ.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 28. Januar 2015",
+    "titel" : "In Gedenken an die NS-Opfer",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_01_28_HNA_01.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 28. Januar 2015",
+    "titel" : "Die Pflicht zur Erinnerung",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_01_28_HNA_02.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2015",
+    "titel" : "Gedenken an Opfer des Nazi-Terrors",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_01_28_WLZ_01.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2015",
+    "titel" : "\"Vergiss uns nicht, mein lieber Junge\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_01_28_WLZ_02.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 27. Januar 2015",
+    "titel" : "An der Endstation des Lebens",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2015_01_27_HNA.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 06. Dezember 2014",
+    "titel" : "Ein Buch des Schreckens",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2014_12_06_HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 06. Dezember 2014",
+    "titel" : "Mord im Namen der \"Volksgesundheit\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2014_12_06_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 17. November 2014",
+    "titel" : "Unter jedem Grabstein eine Weltgeschichte",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2014_11_17_WLZ.jpg"
+  }, {
+    "subtitel" : "Eder-Diemel Tipp, 15. November 2014",
+    "titel" : "Nazis erkennen und bekämpfen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2014_11_15_Eder_Diemel_Tipp.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 13. November 2014",
+    "titel" : "Grausame Erinnerungen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2014_11_13_HNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 13. November 2014",
+    "titel" : "\"Tragt das Wissen weiter und mischt euch ein\"",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2014_11_13_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 08. Mai 2014",
+    "titel" : "Wachsam sein bei Rechts-Extremen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2014_05_08_WLZ.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 12. Dezember 2013",
+    "titel" : "\"Exakt und schonungslos\"",
+    "url" : "http://www.gedenkportal-korbach.de/images/Buchvorstellung-HNA-klein.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 12. Dezember 2013",
+    "titel" : "Ein Buch als \"letzte Ehrung\" der Toten",
+    "url" : "http://www.gedenkportal-korbach.de/images/Buchvorstellung-WLZ-klein.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine  (HNA), 11. November 2013",
+    "titel" : "Ein Himmel voller Sterne",
+    "url" : "http://www.gedenkportal-korbach.de/images/EinHimmelvollerSterne.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 09. November 2013",
+    "titel" : "Prügel, Steine, Flammen",
+    "url" : "http://www.gedenkportal-korbach.de/images/GedenkenPogrome2013HNA.jpg"
+  }, {
+    "subtitel" : "Internetportal \"hansestadt-korbach.de\", Artikel von Dennis Schmidt vom 07. November 2013:",
+    "titel" : "Jüdisches Leben in Korbach",
+    "url" : "http://www.gedenkportal-korbach.de/images/LebeninKorbach1.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28.09.2013",
+    "titel" : "Erwürgt im Konzentrationslager Dachau",
+    "url" : "http://www.gedenkportal-korbach.de/images/Dachau.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28.09.2013",
+    "titel" : "Staatsanwalt Hartinger dokumentiert den Mord ",
+    "url" : "http://www.gedenkportal-korbach.de/images/Gesundheitswesen.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 08.06.2013",
+    "titel" : "Verschwundene Nachbarn",
+    "url" : "http://www.gedenkportal-korbach.de/images/cdartikel1.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung  (WLZ), 06.06.2013",
+    "titel" : "An \"verschwundene Nachbarn\" Erinnern",
+    "url" : "http://www.gedenkportal-korbach.de/images/An%20verschwundene%20Nachbarn%20erinnern%20WLZ%2006-06-20131.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 11.05.2013",
+    "titel" : "Vom Sterben jüdischer Kinder",
+    "url" : "http://www.gedenkportal-korbach.de/images/vom_sterben1.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 13. April 2013",
+    "titel" : "Eine besondere Geschichte",
+    "url" : "http://www.gedenkportal-korbach.de/images/AnnefrankHNA.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 09.02.2013",
+    "titel" : "Ein Mädchen schreibt Geschichte",
+    "url" : "http://www.gedenkportal-korbach.de/images/anne1.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 8. März 2012",
+    "titel" : "Sobibor bedeutet den Tod",
+    "url" : "http://www.gedenkportal-korbach.de/presse/2012_03_08_WLZ.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 09.11.2010",
+    "titel" : "Internet-Portal erinnert an Korbacher Nazi-Opfer",
+    "url" : "http://www.gedenkportal-korbach.de/images/khna091120121.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 09.11.2010",
+    "titel" : "Diese Internet-Seite fördern Bewusstsein für Geschichte",
+    "url" : "http://www.gedenkportal-korbach.de/images/khna091120122.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 17.12.2010",
+    "titel" : "Gedenken an Familie Mosheim",
+    "url" : "http://www.gedenkportal-korbach.de/images/wlz17102010.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 17.12.2010",
+    "titel" : "Eine Tafel für die Ewigkeit",
+    "url" : "http://www.gedenkportal-korbach.de/images/mosheimhna1.jpg"
+  }, {
+    "subtitel" : "Hessische/Niedersächsische Allgemeine (HNA), 08.11.2010",
+    "titel" : "Ausstellung Legalisierter Raub",
+    "url" : "http://www.gedenkportal-korbach.de/images/legalraub1.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 18.09.2009",
+    "titel" : "Wer nicht arbeiten kann, kommt in die Todesanstalt",
+    "url" : "http://www.gedenkportal-korbach.de/images/wlz18092009klein.png"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 30.05.2008",
+    "titel" : "Am Ende steht Vernichtung und Tod",
+    "url" : "http://www.gedenkportal-korbach.de/images/wlz30052008klein.png"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ)",
+    "titel" : "Am Ende steht Vernichtung und Tod - Fortsetzung",
+    "url" : "http://www.gedenkportal-korbach.de/images/wlz30052008rueckklein.png"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ)",
+    "titel" : "Ausgesondert und als \"lebensunwert\" ermordet",
+    "url" : "http://www.gedenkportal-korbach.de/images/wlz000000klein.png"
+  } ]
 }
