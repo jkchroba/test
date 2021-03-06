@@ -17,6 +17,30 @@
     "type" : "Test"
   } ],
   "news" : [ {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2021",
+    "titel" : "Pass auf, Demokratie ist ein zartes Pflänzchen",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2021_01_28_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 27. Januar 2021",
+    "titel" : "Ort der Verzweiflung und Mahnung",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2021_01_27_WLZ.jpg"
+  }, {
+    "subtitel" : "Eder-Diemel-Tipp, 23. Januar 2021",
+    "titel" : "Dr. Lilienthal bekommt Obermayer Award",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2021_01_23_EDT.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 29. Oktober 2020",
+    "titel" : "Friedliches Europa - was ein Glück",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_10_29_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 27. Oktober 2020",
+    "titel" : "An Schicksale von NS-Opfern",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_10_27_WLZ.jpg"
+  }, {
+    "subtitel" : "Waldeckische Landeszeitung (WLZ), 05. Oktober 2020",
+    "titel" : "Museum erwirbt Salberg-Pokal",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_10_05_WLZ.jpg"
+  }, {
     "subtitel" : "Waldeckische Landeszeitung (WLZ), 12. März 2020",
     "titel" : "Menschenrecht im Fokus",
     "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2020_03_12_WLZ.jpg"
