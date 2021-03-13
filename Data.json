@@ -6,6 +6,7 @@
     "seconds" : 1611745200,
     "time" : "12:00 Uhr",
     "titel" : "App-Vorstellungen",
+    "url" : ,
     "type" : "Gedenkveranstaltung"
   }, {
     "adress" : "Bürgerhaus, Kirchstraße 7, Korbach",
@@ -14,6 +15,7 @@
     "seconds" : 1611745200,
     "time" : "12:00 Uhr",
     "titel" : "App-Vorstellungen",
+    "url" : ,
     "type" : "Test"
   } ],
   "news" : [ {
