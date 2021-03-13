@@ -6,8 +6,8 @@
     "seconds" : 1611745200,
     "time" : "12:00 Uhr",
     "titel" : "App-Vorstellungen",
-    "url" : ,
-    "type" : "Gedenkveranstaltung"
+    "type" : "Gedenkveranstaltung",
+    "url" : ""
   }, {
     "adress" : "Bürgerhaus, Kirchstraße 7, Korbach",
     "date" : "27/01/2021",
@@ -15,8 +15,8 @@
     "seconds" : 1611745200,
     "time" : "12:00 Uhr",
     "titel" : "App-Vorstellungen",
-    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2021_01_28_WLZ.jpg",
-    "type" : "Artikel"
+    "type" : "Test",
+    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2021_01_28_WLZ.jpg"
   } ],
   "news" : [ {
     "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2021",
@@ -500,3 +500,4 @@
     "url" : "http://www.gedenkportal-korbach.de/images/wlz000000klein.png"
   } ]
 }
+
