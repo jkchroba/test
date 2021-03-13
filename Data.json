@@ -1,13 +1,11 @@
-{
-  "events" : [ {
+ "events" : [ {
     "adress" : "Bürgerhaus, Kirchstraße 7, Korbach",
     "date" : "27/01/2021",
     "infoText" : "Anlässlich des nationalen Gedenktages an die Opfer des Nationalsozialismis stellt die Stadt Korbach zusemmen mit dem Lions-Club und der Alten-Landesschule die \"Gedenkportal-App\" vor.",
     "seconds" : 1611745200,
     "time" : "12:00 Uhr",
     "titel" : "App-Vorstellungen",
-    "type" : "Gedenkveranstaltung",
-    "url" : ""
+    "type" : "Gedenkveranstaltung"
   }, {
     "adress" : "Bürgerhaus, Kirchstraße 7, Korbach",
     "date" : "27/01/2021",
@@ -15,8 +13,7 @@
     "seconds" : 1611745200,
     "time" : "12:00 Uhr",
     "titel" : "App-Vorstellungen",
-    "type" : "Test",
-    "url" : "http://www.gedenkportal-korbach.de/presse/zoom/2021_01_28_WLZ.jpg"
+    "type" : "Test"
   } ],
   "news" : [ {
     "subtitel" : "Waldeckische Landeszeitung (WLZ), 28. Januar 2021",
@@ -500,4 +497,5 @@
     "url" : "http://www.gedenkportal-korbach.de/images/wlz000000klein.png"
   } ]
 }
+
 
