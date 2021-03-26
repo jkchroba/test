@@ -44,7 +44,7 @@
     opacity: 1.0;
     width: 98%;
     
-    background-image: url("Banner.png");
+    background-image: url("/Banner.png");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom;
