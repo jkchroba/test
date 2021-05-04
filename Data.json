@@ -1,8 +1,8 @@
 {
   "events" : [ {
-    "adress" : "Bürgerhaus, Kirchstraße 7, Korbach",
-    "date" : "27/01/2021",
-    "infoText" : "(SERVER: JCHR) Dies ist ein Beispielbenachrichtigung! Zukünftig können Nutzer der App bevorstehende Veranstaltungen in der Gedenkportal-App sehen.",
+    "adress" : "-",
+    "date" : "05/2021",
+    "infoText" : "Die Gedenkportal-App ist ab sofort im Apple AppStore verfügbar.",
     "seconds" : 1611745200,
     "time" : "12:00 Uhr",
     "titel" : "App-Vorstellungen",
