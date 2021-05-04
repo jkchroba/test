@@ -63,6 +63,24 @@
     font-size: 15px;
 } 
 
+#AppStoreBox {
+    float: left;
+    opacity: 1.0;
+    width: 20%;
+    
+    background-image: url("AppStoreBadge.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
+    padding-bottom: 6.7%;
+    
+    margin-left: 22%;
+    margin-top: 20px;
+    
+  
+}
+
 
 #imageBOX {
     float: right;
@@ -76,6 +94,24 @@
     margin-right: 2%;
     
     background-image: url("IPhone_Start.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+} 
+
+#sponsorBox {
+    float: left;
+    opacity: 1.0;
+    width: 29%;
+    margin-top: 10px;
+    
+    margin-right: 17%;
+    margin-left: 18%;
+    
+    padding-top: 2%;
+    padding-bottom: 8%;
+
+  
+    background-image: url("SponsorenLogosGPApp.png");
     background-size: 100%;
     background-repeat: no-repeat;
 } 
