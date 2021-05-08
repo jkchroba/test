@@ -5,10 +5,6 @@
       {
         "appID": "HKJGHKJG.com.facebook.ios",
         "paths": [ "NOT /e/*", "*", "/", “/archives/201?/* ]
-      },
-      {
-         "appID": "JKHKJJHK.com.twitter.ios",
-         "paths": [ "NOT /e/*", "*", "/", “/archives/200?/* ]
       }
     ]
   }
